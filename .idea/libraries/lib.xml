@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/liquibase-gb-shop-master/lib/jaxb-api-2.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/liquibase-gb-shop-master/lib/postgresql-42.2.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/liquibase-gb-shop-master/lib/mariadb-java-client-2.7.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/liquibase-gb-shop-master/lib/snakeyaml-1.27.jar!/" />
+      <root url="jar://$PROJECT_DIR$/liquibase-gb-shop-master/lib/picocli-4.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/liquibase-gb-shop-master/lib/jaybird-4.0.3.java8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/liquibase-gb-shop-master/lib/jcc-11.5.6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/liquibase-gb-shop-master/lib/jaxb-impl-2.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/liquibase-gb-shop-master/lib/mssql-jdbc-8.4.0.jre8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/liquibase-gb-shop-master/lib/ojdbc8-18.3.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/liquibase-gb-shop-master/lib/h2-1.4.200.jar!/" />
+      <root url="jar://$PROJECT_DIR$/liquibase-gb-shop-master/lib/jaxb-core-2.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/liquibase-gb-shop-master/lib/hsqldb-2.5.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/liquibase-gb-shop-master/lib/sqlite-jdbc-3.34.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
